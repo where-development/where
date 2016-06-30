@@ -1,0 +1,7 @@
+{
+  "name": "where",
+  "short_name": "where",
+  "description": "Where is a community platform of rent and instant booking to private homes for a short duration",
+  "start_url": "/",
+  "display": "standalone"
+}
